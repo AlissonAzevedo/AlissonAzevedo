@@ -1,4 +1,4 @@
-### Oi, eu sou o Alisson Azevedo 👋
+### Hi, eu sou o Alisson Azevedo 👋
 
 <div align="center">
   <a href="https://github.com/AlissonAzevedo">
