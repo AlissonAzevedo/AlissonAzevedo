@@ -1,4 +1,5 @@
 ### Hi, eu sou o Alisson Azevedo 👋
+## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlissonAzevedo.AlissonAzevedo)
 
 <div align="center">
   <a href="https://github.com/AlissonAzevedo">
