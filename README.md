@@ -1,5 +1,5 @@
 ### Hi, eu sou o Alisson Azevedo 👋
-## Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=AlissonAzevedo.AlissonAzevedo)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=blue" alt="Profile views" /> </p>
 
 <div align="center">
   <a href="https://github.com/AlissonAzevedo">
