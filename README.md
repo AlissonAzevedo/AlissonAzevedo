@@ -2,8 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=blue" alt="Profile views" /> </p>
 
 <div align="center">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlissonAzevedo&repo=github-readme-stats)](https://github.com/anuraghazra/github- readme-stats)
-<div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AlissonAzevedo&repo=github-readme-stats)]
 
 <div align="center">
   <a href="https://github.com/AlissonAzevedo">
