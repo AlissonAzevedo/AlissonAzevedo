@@ -1,7 +1,8 @@
 ### Olá, me chamo Alisson!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=blue" alt="Profile views" /> </p>
+
 
 <div align="center">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=blue" alt="Profile views" /> </p>
   <a href="https://github.com/AlissonAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonAzevedo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonAzevedo&layout=compact&langs_count=7&theme=github_dark"/>
