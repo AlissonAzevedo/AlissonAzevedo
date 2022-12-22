@@ -1,5 +1,5 @@
 ### Olá, me chamo Alisson!
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=yellow" alt="Profile views" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlissonAzevedo&color=yellow" alt="Profile views" />
 
 <div align="left">
   <a href="https://github.com/AlissonAzevedo">
